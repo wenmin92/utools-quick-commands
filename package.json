@@ -1,0 +1,17 @@
+{
+  "name": "utools-quick-commands",
+  "version": "1.0.0",
+  "description": "uTools Quick Commands 插件中写的一些脚本",
+  "main": "index.js",
+  "author": "wenmin92",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.6"
+  }
+}
